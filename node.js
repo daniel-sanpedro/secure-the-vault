@@ -17,4 +17,5 @@ let str1 =
   "You have received this message because you have been chosen to open an important vault.";
 let str2 = "The combination of the lock is";
 let combination = "solved in console";
+
 alert(str1 + " " + str2 + " " + combination);
